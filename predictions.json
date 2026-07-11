@@ -1,0 +1,70 @@
+{
+  "set1": [
+    {
+      "Age": 30,
+      "EstimatedSalary": 87000,
+      "label": "Age 30, Salary 87,000",
+      "Prediction": "Not Purchased",
+      "Probability_of_Purchase": 0.0,
+      "Out_of_Training_Range": false
+    },
+    {
+      "Age": 40,
+      "EstimatedSalary": 0,
+      "label": "Age 40, No Salary",
+      "Prediction": "Not Purchased",
+      "Probability_of_Purchase": 0.4,
+      "Out_of_Training_Range": true
+    },
+    {
+      "Age": 40,
+      "EstimatedSalary": 100000,
+      "label": "Age 40, Salary 100,000",
+      "Prediction": "Purchased",
+      "Probability_of_Purchase": 1.0,
+      "Out_of_Training_Range": false
+    },
+    {
+      "Age": 50,
+      "EstimatedSalary": 0,
+      "label": "Age 50, No Salary",
+      "Prediction": "Purchased",
+      "Probability_of_Purchase": 1.0,
+      "Out_of_Training_Range": true
+    }
+  ],
+  "set2": [
+    {
+      "Age": 18,
+      "EstimatedSalary": 0,
+      "label": "Age 18, No Salary",
+      "Prediction": "Not Purchased",
+      "Probability_of_Purchase": 0.0,
+      "Out_of_Training_Range": true
+    },
+    {
+      "Age": 22,
+      "EstimatedSalary": 600000,
+      "label": "Age 22, Salary 600,000",
+      "Prediction": "Purchased",
+      "Probability_of_Purchase": 1.0,
+      "Out_of_Training_Range": true
+    },
+    {
+      "Age": 35,
+      "EstimatedSalary": 2500000,
+      "label": "Age 35, Salary 2,500,000",
+      "Prediction": "Purchased",
+      "Probability_of_Purchase": 1.0,
+      "Out_of_Training_Range": true
+    },
+    {
+      "Age": 60,
+      "EstimatedSalary": 100000000,
+      "label": "Age 60, Salary 100,000,000",
+      "Prediction": "Purchased",
+      "Probability_of_Purchase": 1.0,
+      "Out_of_Training_Range": true
+    }
+  ]
+}
