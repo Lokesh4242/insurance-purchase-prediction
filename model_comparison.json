@@ -1,0 +1,97 @@
+[
+  {
+    "Model": "Logistic Regression",
+    "Train Accuracy": 0.8367,
+    "Test Accuracy": 0.86,
+    "Precision": 0.9259,
+    "Recall": 0.6757,
+    "F1-Score": 0.7812,
+    "Overfit Gap": -0.0233,
+    "Confusion Matrix": [
+      [
+        61,
+        2
+      ],
+      [
+        12,
+        25
+      ]
+    ]
+  },
+  {
+    "Model": "KNN (k=5)",
+    "Train Accuracy": 0.91,
+    "Test Accuracy": 0.93,
+    "Precision": 0.8947,
+    "Recall": 0.9189,
+    "F1-Score": 0.9067,
+    "Overfit Gap": -0.02,
+    "Confusion Matrix": [
+      [
+        59,
+        4
+      ],
+      [
+        3,
+        34
+      ]
+    ]
+  },
+  {
+    "Model": "SVM (Linear Kernel)",
+    "Train Accuracy": 0.8233,
+    "Test Accuracy": 0.86,
+    "Precision": 0.9259,
+    "Recall": 0.6757,
+    "F1-Score": 0.7812,
+    "Overfit Gap": -0.0367,
+    "Confusion Matrix": [
+      [
+        61,
+        2
+      ],
+      [
+        12,
+        25
+      ]
+    ]
+  },
+  {
+    "Model": "Decision Tree",
+    "Train Accuracy": 0.9967,
+    "Test Accuracy": 0.83,
+    "Precision": 0.7778,
+    "Recall": 0.7568,
+    "F1-Score": 0.7671,
+    "Overfit Gap": 0.1667,
+    "Confusion Matrix": [
+      [
+        55,
+        8
+      ],
+      [
+        9,
+        28
+      ]
+    ]
+  },
+  {
+    "Model": "Random Forest",
+    "Train Accuracy": 0.9967,
+    "Test Accuracy": 0.89,
+    "Precision": 0.825,
+    "Recall": 0.8919,
+    "F1-Score": 0.8571,
+    "Overfit Gap": 0.1067,
+    "Confusion Matrix": [
+      [
+        56,
+        7
+      ],
+      [
+        4,
+        33
+      ]
+    ]
+  }
+]
