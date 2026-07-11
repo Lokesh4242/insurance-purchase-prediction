@@ -1,0 +1,6 @@
+{
+  "age_probability_swing_at_mid_salary": 0.8,
+  "salary_probability_swing_at_mid_age": 1.0,
+  "young_high_salary_prob": 1.0,
+  "old_high_salary_prob": 1.0
+}
